@@ -1,0 +1,6 @@
+[submodule "engine/vendor/lib/forge-std"]
+	path = engine/vendor/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "engine/amm_v1/lib/forge-std"]
+	path = engine/amm_v1/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
